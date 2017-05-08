@@ -1,0 +1,3 @@
+/home/eddy/Programming/sdk/study/tinyxml/bulid/src/tinyxml/CMakeFiles/tinyxml.dir
+/home/eddy/Programming/sdk/study/tinyxml/bulid/src/CMakeFiles/xmlGenerate.dir
+/home/eddy/Programming/sdk/study/tinyxml/bulid/src/CMakeFiles/xmlParse.dir

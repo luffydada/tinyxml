@@ -1,0 +1,23 @@
+# linux:
+tags
+Makefile~
+makefile~
+cscope.in.out
+cscope.out
+cscope.po.out
+
+# c++:
+*.cpp~
+*.swp
+
+#library
+*.so
+
+#git
+.gitignore~
+
+#dir
+backup
+build
+
+# My configurations:

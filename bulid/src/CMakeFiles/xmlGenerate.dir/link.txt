@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/xmlGenerate.dir/generate.cpp.o  -o ../../output/bin/xmlGenerate  -L/home/eddy/Programming/sdk/study/tinyxml/output/lib -rdynamic ../../output/lib/libtinyxml.so.1.1 -Wl,-rpath,/home/eddy/Programming/sdk/study/tinyxml/output/lib 

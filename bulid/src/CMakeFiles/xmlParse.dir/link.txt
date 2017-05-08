@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/xmlParse.dir/parse.cpp.o  -o ../../output/bin/xmlParse  -L/home/eddy/Programming/sdk/study/tinyxml/output/lib -rdynamic ../../output/lib/libtinyxml.so.1.1 -Wl,-rpath,/home/eddy/Programming/sdk/study/tinyxml/output/lib 

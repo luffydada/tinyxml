@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eddy/Programming/sdk/study/tinyxml/src/generate.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+tinyxml/tinyxml.h
+/home/eddy/Programming/sdk/study/tinyxml/src/tinyxml/tinyxml.h
+
+/home/eddy/Programming/sdk/study/tinyxml/src/tinyxml/tinystr.h
+assert.h
+-
+string.h
+-
+
+/home/eddy/Programming/sdk/study/tinyxml/src/tinyxml/tinyxml.h
+ctype.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+string
+-
+iostream
+-
+sstream
+-
+tinystr.h
+/home/eddy/Programming/sdk/study/tinyxml/src/tinyxml/tinystr.h
+
